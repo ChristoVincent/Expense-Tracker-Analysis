@@ -10,7 +10,8 @@
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](r"C:\Users\chris\expense_tracker_powebi\dashboard.png.png")
+![Dashboard Preview](dashboard.png)
+
 
 ---
 
