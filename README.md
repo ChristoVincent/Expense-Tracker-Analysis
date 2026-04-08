@@ -10,7 +10,7 @@
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview]("C:\Users\chris\OneDrive\Pictures\Screenshots\Screenshot 2026-04-08 185316.png")
+![Dashboard Preview](r"C:\Users\chris\expense_tracker_powebi\dashboard.png.png")
 
 ---
 
