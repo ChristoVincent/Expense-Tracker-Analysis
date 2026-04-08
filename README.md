@@ -155,4 +155,4 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 
 ## 👤 Author
 
-Made with  Power BI · [Your GitHub Profile](https://github.com/ChristoVincent)
+Made with  Power BI · [ChristoVincent](https://github.com/ChristoVincent)
